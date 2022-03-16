@@ -4,6 +4,6 @@ DMRs are genomic regions that have consistently different DNA methylation across
 DMRs were initially identified using the ‘the Bioconductor DMRcate package and verified using comb-p. These packages are consistently reported to have the best sensitivity and highest control of false positive rate when compared to other DMR tools. A significant DMR can be detected even if there is no genome-wide significant DMP in the region. DMRcate identifies DMRs from the tunable kernel smoothing process of association signals.
 
 This file contains sample DMR scripts for DMRcate and Combp method. 
-DMRs using Combp method in R script was given by my collegue Rory Wilson and then adapted for my project. 
+R script for finding DMRs using Combp method was given by my collegue Rory Wilson and then adapted for my project. 
 
 Please contact me if you have any questions. 
